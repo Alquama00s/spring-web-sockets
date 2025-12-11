@@ -1,0 +1,12 @@
+logging:
+  level:
+    org:
+      springframework:
+        web:
+          socket: TRACE
+    root: INFO
+
+
+spring:
+  application:
+    name: web-sockets
